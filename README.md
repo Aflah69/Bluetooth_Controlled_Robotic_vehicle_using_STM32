@@ -11,7 +11,7 @@ Can rotate 360 degree
 
 Circuit Components:
 
-https://github.com/uttamsdev/bluetooth-controlled-remote-car
+![Basic_Bluetooth_controlled_robotic_vehicle](https://github.com/user-attachments/assets/f8601704-bbec-434a-be9b-d9f8175ca628)
 
 Used Tools/Hardware:
 
@@ -27,4 +27,5 @@ Used Tools/Hardware:
 
 Car Pictures:
 
-https://github.com/uttamsdev/bluetooth-controlled-remote-car
+![IMG_20240722_104342](https://github.com/user-attachments/assets/d1eb5ca0-cf9c-4acb-bd26-e8e1f59ade81)
+
